@@ -30,6 +30,8 @@ namespace EmailSenderMercury
                 msg.To.Add("");
                 msg.From = new MailAddress("");
                 s.Send(msg);
+
+		// test
             }
             catch(Exception e)
             {
