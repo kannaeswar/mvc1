@@ -1,0 +1,18 @@
+DT
+	- Incident	-	Yes
+	- General	-	Yes
+	- IssueReport	-	Yes
+	- FeatureReport	-	Yes
+	- CustomSamples	- 	Yes
+
+Web
+	- Incident			- Yes
+	- Forum				- Yes
+	- KB				- Yes
+	- Older user uploads		- Yes
+	- Older eng support uploads 	- Yes
+	- Older development uploads	- Yes
+	
+Build
+	- Patch				- Yes
+	- Setup				- Yes
